@@ -19,12 +19,12 @@ This project focuses on analyzing flight booking data to gain insights into cust
     booking_complete.sql: This script shows the completion rate of the bookings. 
 ## Power BI Visualizations
 The Power BI visualizations provide a more interactive and graphical representation of the data. The following analyses were visualized in Power BI:
+
     Sum of revenue by flight day: A bar chart showing the revenue generated for different flight dates.
     
     Sales channel: A pie chart comparing the performance of the sales channels.
     
     Booking complete: A donut chart showing the completion rate of the bookings. 
-    
 ## How to Use This Repository
 1. Set Up the Database:
     Import the customer_booking.csv dataset into your SQL database.
